@@ -4,6 +4,8 @@
 /build/
 /docs/
 
+/.gradle/
+
 build.properties
 
 /.idea/workspace.xml
